@@ -1,0 +1,285 @@
+body {
+	font-family:Arial;
+	background:url(images/bg.jpg) repeat-x;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	text-align:center;
+}
+#borde {
+	background:url(images/topRojo-trans.png) no-repeat;
+	width:1067px;
+	height:168px;
+	margin:auto;
+	position:relative;
+}
+/*  ^ Hijo  */ 
+			   
+			   #logo {
+			   	background:url(images/logo.jpg) top center no-repeat;
+				width:1067px;
+				height:137px;
+				margin-top:31px;
+				float:left;
+				position:relative;	
+			   }
+			   /*  ^Hijo  */  #HMbtn {
+							  	width:auto;
+								height:auto;
+								float:left;
+								margin:100px 0px 0px 80px;
+								word-spacing:-3px;
+								
+							  }
+			   				  .HM img{
+							  	background:url(images/btnHmOut-trans.png) top no-repeat;
+							  }
+							  .NT img{
+							  	background:url(images/btnNtOut-trans.png) top no-repeat;
+							  }
+							  .PD img{
+							  	background:url(images/btnPdOut-trans.png) top no-repeat;
+							  }
+							  .HM:hover img{
+							  	background:url(images/btnHmOver-trans.png) top no-repeat;
+							  }
+							  .NT:hover img{
+							  	background:url(images/btnNtOver-trans.png) top no-repeat;
+							  }
+							  .PD:hover img{
+							  	background:url(images/btnPdOver-trans.png) top no-repeat;
+							  }
+							  #CCbtn {
+							  	width:auto;
+								height:auto;
+								float:right;
+								margin:100px 90px 0px 0px;
+								word-spacing:-3px;
+							  }
+			   				  .CC img{
+							  	background:url(images/btnCcOut-trans.png) top no-repeat;
+							  }
+							  .CT img{
+							  	background:url(images/btnCtOut-trans.png) top no-repeat;
+							  }
+							  .CC:hover img{
+							  	background:url(images/btnCcOver-trans.png) top no-repeat;
+							  }
+							  .CT:hover img{
+							  	background:url(images/btnCtOver-trans.png) top no-repeat;
+							  }
+#cont {
+	background:url(images/bgRojo-trans.png) repeat-y;
+	width:1067px;
+	height:990px;
+	margin:auto;
+	padding:0px;
+	position:relative;
+}
+/*  ^ Hijo  */ #rell2 {
+				width:78px;
+				height:268px;
+				margin:0px;
+				float:left;
+			   }
+			   #banner {
+			   	background:url(images/banner.jpg) no-repeat;
+				width:900px;
+				height:268px;
+				margin:0px;
+				float:left;	
+			   }
+			   #rell3 {
+				width:89px;
+				height:268px;
+				margin:0px;
+				float:left;			
+			   }
+			   #rell4 {
+				width:78px;
+				height:574px;
+				margin:0px;
+				float:left;	
+			   }
+			   #bgProd {
+			   	background:url(images/bgProd.jpg) no-repeat;
+				width:900px;
+				height:574px;
+				margin:0px;
+				float:left;	
+			   }
+			   /*  ^ Hijo  */ #rell5 {
+								width:900px;
+								height:93px;
+								margin:0px;
+								float:left;	
+			   				  }
+							  #txtprod1 {							  	
+								width:900px;
+								height:50px;
+								padding:0px;
+								float:left;
+							  }
+							  #txtprod1 p{
+							  	font-size:12px;	
+								padding:0px;
+								float:left;
+								text-align:left;
+							  }
+							  #txtprod1 .Grnd{
+							  	font-size:17px;
+								font-weight:bolder;
+								padding:0px;
+								float:left;
+								text-align:left;
+							  }
+							  #catprod1 {							  	
+								width:900px;
+								height:184px;
+								margin:0px;
+								float:left;
+							  }
+							  /*  ^ Hijo  */ #rell6 {
+												width:23px;
+												height:184px;
+												margin:0px;
+												float:left;
+			   								 }
+											 #prod1 {
+												width:286px;
+												height:184px;
+												margin:0px;
+												float:left;
+			   									background:url(images/productos/Prod_01.jpg) no-repeat;
+			   								 }
+											 #prod2 {
+												width:281px;
+												height:184px;
+												margin:0px;
+												float:left;
+			   									background:url(images/productos/Prod_02.jpg) no-repeat;
+			   								 }
+											 #prod3 {
+												width:285px;
+												height:184px;
+												margin:0px;
+												float:left;
+			   									background:url(images/productos/Prod_03.jpg) no-repeat;
+			   								 }
+											 #rell7 {
+												width:25px;
+												height:184px;
+												margin:0px;
+												float:left;
+			   								 }
+							  #txtprod2 {							  	
+								width:900px;
+								height:58px;
+								margin:0px;
+								float:left;
+							  }
+							  #txtprod2 p{
+							  	font-size:12px;	
+								padding:0px;
+								float:left;
+								text-align:left;
+							  }
+							  #txtprod2 .Grnd{
+							  	font-size:17px;
+								font-weight:bolder;
+								padding:0px;
+								float:left;
+								text-align:left;
+							  }
+							  #catprod2 {							  	
+								width:900px;
+								height:189px;
+								margin:0px;
+								float:left;	
+							  }
+							  /*  ^ Hijo  */ #rell8 {
+												width:23px;
+												height:189px;
+												margin:0px;
+												float:left;	
+			   								 }
+											 #prod4 {
+												width:286px;
+												height:189px;
+												margin:0px;
+												float:left;
+			   									background:url(images/productos/Prod_04.jpg) no-repeat;
+			   								 }
+											 #prod5 {
+												width:281px;
+												height:189px;
+												margin:0px;
+												float:left;
+			   									background:url(images/productos/Prod_05.jpg) no-repeat;
+			   								 }
+											 #prod6 {
+												width:285px;
+												height:189px;
+												margin:0px;
+												float:left;
+			   									background:url(images/productos/Prod_06.jpg) no-repeat;
+			   								 }
+											 #rell9 {
+												width:25px;
+												height:189px;
+												margin:0px;
+												float:left;	
+			   								 }
+			   #rell10 {
+				width:89px;
+				height:574px;
+				margin:0px;
+				float:left;	
+			   }
+			   #rell11 {
+				width:78px;
+				height:83px;
+				margin:0px;
+				float:left;	
+			   }
+			   #bgSeg {
+			   	background:url(images/bgSeg.jpg) no-repeat;
+				width:900px;
+				height:83px;
+				margin:0px;
+				float:left;	
+			   }
+			   /*  ^ Hijo  */ p {
+			   					font-size:13px;
+			   					padding:0px;
+								margin:28px 0px 0px 50px;
+								float:left;
+								color:#fff;
+			   				  }
+							  #FL {
+							    padding:10px 40px 0px 0px;
+							  	width:auto;
+								height:auto;
+								margin:auto;
+								float:right;
+							  }
+							  .FB img{
+							  	background:url(images/btnFbOut-trans.png) top no-repeat;
+							  }
+							  .TW img{
+							  	background:url(images/btnTwOut-trans.png) top no-repeat;
+							  }
+							  .FB:hover img{
+							  	background:url(images/btnFbOver-trans.png) top no-repeat;
+							  }
+							  .TW:hover img{
+							  	background:url(images/btnTwOver-trans.png) top no-repeat;
+							  }
+							  
+			   #rell12 {
+				width:89px;
+				height:83px;
+				margin:0px;
+				float:left;	
+			   }
+
